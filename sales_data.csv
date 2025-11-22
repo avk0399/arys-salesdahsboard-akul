@@ -1,0 +1,52 @@
+ORDERNUMBER,QUANTITYORDERED,PRICEEACH,ORDERLINENUMBER,SALES,ORDERDATE,STATUS,QTR_ID,MONTH_ID,YEAR_ID,PRODUCTLINE,CUSTOMERNAME,COUNTRY
+10100,30,100,1,3000,1/6/2003,Shipped,1,1,2003,Motorcycles,Euro Shopping Channel,Spain
+10100,50,67.8,2,3390,1/6/2003,Shipped,1,1,2003,Planes,Euro Shopping Channel,Spain
+10101,25,95.7,1,2392.5,1/9/2003,Shipped,1,1,2003,Motorcycles,Blauer See Auto,Germany
+10101,26,81.35,2,2115.1,1/9/2003,Shipped,1,1,2003,Ships,Blauer See Auto,Germany
+10102,45,99.45,1,4475.25,1/10/2003,Shipped,1,1,2003,Classic Cars,Vitachrome Inc.,USA
+10103,46,100,1,4600,1/29/2003,Shipped,1,1,2003,Motorcycles,Baane Mini Imports,Norway
+10104,22,81.73,1,1798.06,1/31/2003,Shipped,1,1,2003,Trucks and Buses,Euro Shopping Channel,Spain
+10105,36,94.74,1,3410.64,2/11/2003,Shipped,1,2,2003,Classic Cars,Danish Wholesale Imports,Denmark
+10106,34,100,1,3400,2/17/2003,Shipped,1,2,2003,Planes,Rovelli Gifts,Italy
+10107,32,95.55,1,3057.6,2/24/2003,Shipped,1,2,2003,Motorcycles,Scandinavian Gift Ideas,Sweden
+10108,48,100,1,4800,3/3/2003,Shipped,1,3,2003,Ships,Cruz & Sons Co.,Brazil
+10109,33,85.23,1,2812.59,3/10/2003,Shipped,1,3,2003,Vintage Cars,Mini Gifts Distributors Ltd.,USA
+10110,39,97.26,1,3793.14,3/18/2003,Shipped,1,3,2003,Trucks and Buses,The Sharp Gifts Warehouse,USA
+10111,41,100,1,4100,4/11/2003,Shipped,2,4,2003,Classic Cars,Mini Wheels Co.,USA
+10112,29,93.81,1,2720.49,4/23/2003,Shipped,2,4,2003,Planes,Volvo Model Replicas,Sweden
+10113,47,100,1,4700,5/2/2003,Shipped,2,5,2003,Motorcycles,Australian Collectors,Australia
+10114,44,89.15,1,3922.6,5/13/2003,Shipped,2,5,2003,Ships,La Corne D'abondance,France
+10115,28,100,1,2800,5/21/2003,Shipped,2,5,2003,Vintage Cars,Gift Depot Inc.,USA
+10116,35,86.48,1,3026.8,6/1/2003,Shipped,2,6,2003,Trucks and Buses,Motor Mint Distributors Inc.,USA
+10117,43,100,1,4300,6/12/2003,Shipped,2,6,2003,Classic Cars,Dragon Souveniers Ltd.,UK
+10118,37,92.37,1,3417.69,6/26/2003,Shipped,2,6,2003,Planes,Technics Stores Inc.,USA
+10119,31,100,1,3100,7/8/2003,Shipped,3,7,2003,Motorcycles,Salzburg Collectables,Austria
+10120,40,88.62,1,3544.8,7/15/2003,Shipped,3,7,2003,Ships,Australian Gift Network,Australia
+10121,27,100,1,2700,7/29/2003,Shipped,3,7,2003,Vintage Cars,Reims Collectables,France
+10122,38,95.23,1,3618.74,8/9/2003,Shipped,3,8,2003,Trucks and Buses,Gifts4AllAges.com,USA
+10123,42,100,1,4200,8/19/2003,Shipped,3,8,2003,Classic Cars,Osaka Souveniers Co.,Japan
+10124,30,87.94,1,2638.2,9/2/2003,Shipped,3,9,2003,Planes,Signal Gift Stores,USA
+10125,45,100,1,4500,9/14/2003,Shipped,3,9,2003,Motorcycles,Vida Sport Ltd,Spain
+10126,33,91.55,1,3021.15,9/28/2003,Shipped,3,9,2003,Ships,Herkku Gifts,Finland
+10127,36,100,1,3600,10/6/2003,Shipped,4,10,2003,Vintage Cars,Mini Creations Ltd.,UK
+10128,41,89.76,1,3680.16,10/18/2003,Shipped,4,10,2003,Trucks and Buses,FunGiftIdeas.com,USA
+10129,28,100,1,2800,11/3/2003,Shipped,4,11,2003,Classic Cars,Corporate Gift Ideas Co.,USA
+10130,39,94.12,1,3670.68,11/16/2003,Shipped,4,11,2003,Planes,Saveley & Henriot,France
+10131,44,100,1,4400,11/29/2003,Shipped,4,11,2003,Motorcycles,Land of Toys Inc.,USA
+10132,32,86.33,1,2762.56,12/8/2003,Shipped,4,12,2003,Ships,Lyon Souveniers,France
+10133,37,100,1,3700,12/19/2003,Shipped,4,12,2003,Vintage Cars,Toys of Finland Co.,Finland
+10134,29,92.64,1,2686.56,1/5/2004,Shipped,1,1,2004,Trucks and Buses,Tokyo Collectables Ltd,Japan
+10135,46,100,1,4600,1/14/2004,Shipped,1,1,2004,Classic Cars,Mini Auto Werke,Germany
+10136,31,88.17,1,2733.27,1/27/2004,Shipped,1,1,2004,Planes,Gifts4AllAges.com,USA
+10137,43,100,1,4300,2/9/2004,Shipped,1,2,2004,Motorcycles,Signal Collectibles Ltd.,USA
+10138,35,90.41,1,3164.35,2/21/2004,Shipped,1,2,2004,Ships,Mini Gifts Distributors Ltd.,USA
+10139,40,100,1,4000,3/2/2004,Shipped,1,3,2004,Vintage Cars,Collectable Mini Designs Co.,USA
+10140,26,85.79,1,2230.54,3/15/2004,Shipped,1,3,2004,Trucks and Buses,Technics Stores Inc.,USA
+10141,38,100,1,3800,3/29/2004,Cancelled,1,3,2004,Classic Cars,Euro Shopping Channel,Spain
+10142,34,93.28,1,3171.52,4/12/2004,Shipped,2,4,2004,Planes,Mini Wheels Co.,USA
+10143,42,100,1,4200,4/25/2004,Shipped,2,4,2004,Motorcycles,Australian Collectors,Australia
+10144,30,87.45,1,2623.5,5/8/2004,Shipped,2,5,2004,Ships,Volvo Model Replicas,Sweden
+10145,45,100,1,4500,5/19/2004,Shipped,2,5,2004,Vintage Cars,Toys4GrownUps.com,USA
+10146,33,91.18,1,3008.94,6/1/2004,Shipped,2,6,2004,Trucks and Buses,Gift Depot Inc.,USA
+10147,36,100,1,3600,6/14/2004,Cancelled,2,6,2004,Classic Cars,Collectables For Less Inc.,USA
+10148,41,89.33,1,3662.53,6/27/2004,Shipped,2,6,2004,Planes,Dragon Souveniers Ltd.,UK
